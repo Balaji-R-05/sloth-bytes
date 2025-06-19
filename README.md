@@ -9,11 +9,12 @@
 |---------------------------|--------------|
 | `turnCalc.py`             | 11 Mar 2025  |
 | `happyYear.py`            | 15 Apr 2025  |
+| `noYelling.py`            | 6 May 2025   |
+| `removeVirus.py`          | 21 May 2025  |
 | `actualMemorySize.py`     | 28 May 2025  |
 | `fact_of_fact.py`         | 11 Jun 2025  |
 | `birthdayCakeCandles.py`  | 18 Jun 2025  |
 
----
 
 <!-- ## 💡 Why "Sloth Bytes"?
 
