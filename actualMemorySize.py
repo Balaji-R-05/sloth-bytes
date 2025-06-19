@@ -1,4 +1,7 @@
-# Wed 28 May
+# 28 May 2025
+
+# The Actual Memory Size of Your USB Flash Drive
+# Create a function that takes the memory size (ms) as an argument and returns the actual memory size.
 
 def actualMemorySize(ms):
     value = float(ms[:-2])
